@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**AbdelraheemNasser/AbdelraheemNasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Abdelraheem Nasser Abdelraheem</a></h1>
+<h3 align="center">A passionate FullStack Developer with Business and Manageraial Experiance &#127470;&#127475</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently Learining & Apply for Small Projects
+-  
+- 🌱 I’m currently Working on Developing Skills to Next Level
+
+- 🌱 I’m currently learning nestjs & Threejs
+
+- 💬 Ask me about **Reactjs & Expressjs**
+
+- 📫 How to reach me **bedonasser323@gmail.com**
+
+- 📄 Seeking to apply Business  in Programming for Building Mircoservices
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://images.app.goo.gl/5BX62XgESxCgTbcC8">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch](https://www.facebook.com/bedo.nasser.752">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
+
+</p>
