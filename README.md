@@ -8,15 +8,15 @@ Abdelraheem Nasser Abdelraheem</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Learining & Apply for Small Projects
--  
+- 🔭 I’m currently Learining & Apply for Small Projects using React and TS
+  
 - 🌱 I’m currently Working on Developing Skills to Next Level
 
 - 🌱 I’m currently learning nestjs & Threejs
 
 - 💬 Ask me about **Reactjs & Expressjs**
 
-- 📫 How to reach me **bedonasser323@gmail.com**
+- 📫 How to reach me **abdelraheem121@outlook.com**
 
 - 📄 Seeking to apply Business  in Programming for Building Mircoservices
 <br/>
