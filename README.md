@@ -12,9 +12,7 @@ Abdelraheem Nasser Abdelraheem</a></h1>
   
 - 🌱 I’m currently Working on Developing Skills to Next Level
 
-- 🌱 I’m currently learning nestjs & Threejs
-
-- 💬 Ask me about **Reactjs & Expressjs**
+- 🌱 I’m currently learning Vue.js
 
 - 📫 How to reach me **abdelraheem121@outlook.com**
 
